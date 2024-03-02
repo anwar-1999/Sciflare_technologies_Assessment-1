@@ -1,0 +1,65 @@
+.red-btn,
+.red-btn:hover,
+.red-btn:focus {
+  color: white !important;
+  background: red;
+  border-radius: 10px;
+  border: none;
+  height: 38px;
+  padding: 0px 30px;
+  font-size: 16px;
+  font-family: "Avenir-Medium";
+}
+.add-blue-btn,
+.add-blue-btn:hover,
+.add-blue-btn:focus {
+  color: white !important;
+  background: blue;
+  border-radius: 10px;
+  border: none;
+  height: 38px;
+  padding: 0px 30px;
+  font-size: 16px;
+  font-family: "Avenir-Medium";
+}
+.grey-btn,
+.grey-btn:hover,
+.grey-btn:focus {
+  color: white !important;
+  background: grey;
+  border-radius: 10px;
+  border: none;
+  height: 38px;
+  padding: 0px 30px;
+  font-size: 16px;
+  font-family: "Avenir-Medium";
+}
+.cancel-btn,
+.cancel-btn:hover,
+.cancel-btn:focus {
+    font-family: "Avenir-Medium";
+    color: blue !important;
+    background:white;
+    border-radius: 10px;
+    border: 1px solid blue;
+    height: 38px;
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 0px 15px;
+    height: 38px;
+}
+
+.cancel-btn-red,
+.cancel-btn-red:hover,
+.cancel-btn-red:focus {
+    font-family: "Avenir-Medium";
+    color: red !important;
+    background:white;
+    border-radius: 10px;
+    border: 1px solid red;
+    height: 38px;
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 0px 15px;
+    height: 38px;
+}
